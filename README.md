@@ -22,7 +22,6 @@
 * 🧑 I'm _Sébastien Klaus_, a 21 years old guy passionate about web development ! 
 * 📚 I'm actually in a 3-year degree program in computer science : LP CIASIE in IUT Charlemagne at Nancy, France.  
 * 🔭 In this professional bachelor, we're working on the _full sides_ of web development : front-end (HTML, CSS, JS (jQuery, VueJS), XML), back-end (PHP Frameworks), mobile developement, API REST, project management, open-data, internet law, network, ... so many things !  
-* 🌱 Currently, i work on differents projects : Slack CLone with VueJS, creation of a API with Slim, Todo List with Flutter.
 * 🤝 I am currently doing a 3 month internship at <a href='https://www.beegift.fr/'>Beegift</a>.
 
 

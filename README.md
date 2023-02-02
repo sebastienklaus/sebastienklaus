@@ -21,7 +21,7 @@
 
 * 🧑 I'm _Sébastien Klaus_, a 21 years old guy passionate about web development ! 
 * 📚 I was in a 3-year degree program in computer science : LP CIASIE in IUT Charlemagne at Nancy, France. In this professional bachelor, we're working on the _full sides_ of web development : front-end (HTML, CSS, JS (jQuery, VueJS), XML), back-end (PHP Frameworks), mobile developement, API REST, project management, open-data, internet law, network, ... so many things !  
-* 🤝 After being in a 3 month internship at <a href='https://www.beegift.fr/'>Beegift</a>, i'm in a professionnal contract for 4 additional months.
+* 🤝 After being in a 3 month internship at <a href='https://www.beegift.fr/'>Beegift</a>, i'm in a professionnal contract for 9 additional months.
 * 🔭 Im' currently working on my first publish mobile application : Bee Appli, available on [Play Store](http://shorturl.at/bouY4) & [App Store](http://shorturl.at/wxyz4)
 
 <hr />

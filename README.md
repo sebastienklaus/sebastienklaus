@@ -1,8 +1,3 @@
-
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Cg9oeBXqFayCq26ggf/giphy.gif" width="300"/>
-</div>
-
 <div id="badges" align="center">
   <a href="https://bit.ly/3HbWVGy">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -19,10 +14,9 @@
 
 ### 👤 About Me :
 
-* 🧑 I'm _Sébastien Klaus_, a 21 years old guy passionate about web development ! 
-* 📚 I was in a 3-year degree program in computer science : LP CIASIE in IUT Charlemagne at Nancy, France. In this professional bachelor, we're working on the _full sides_ of web development : front-end (HTML, CSS, JS (jQuery, VueJS), XML), back-end (PHP Frameworks), mobile developement, API REST, project management, open-data, internet law, network, ... so many things !  
-* 🤝 After being in a 3 month internship at <a href='https://www.beegift.fr/'>Beegift</a>, i'm in a professionnal contract for 9 additional months.
-* 🔭 Im' currently working on my first publish mobile application : Bee Appli, available on [Play Store](http://shorturl.at/bouY4) & [App Store](http://shorturl.at/wxyz4)
+* 🧑 I'm _Sébastien Klaus_, a 23 years old guy passionate about web development ! 
+* 📚 I was in a 3-year degree program in computer science : LP CIASIE in IUT Charlemagne at Nancy, France. In this professional bachelor, we're working on the _full sides_ of web development : front-end (HTML, CSS, JS (jQuery, VueJS), XML), back-end (PHP Frameworks), mobile developement (Flutter), API REST, project management, open-data, internet law, network, ... so many things !  
+* 🤝 Actually i'm in a professionnal contract since May 2023 at PMB software as a mobile devleopper.
 
 <hr />
 
